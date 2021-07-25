@@ -2,7 +2,7 @@
 
 Nama  : Muhammad Yahya
 
-Nim   : 311910814
+Nim    : 311910814
 
 1. TAMPILAN LOGIN 
 
